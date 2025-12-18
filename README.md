@@ -1,6 +1,6 @@
 Tugas Proyek Akhir Mata Kuliah Praktikum Algoritma Pemograman
 Teknologi Informasi UNTIDAR 2025/2026
-
+NAMA : Muhammad Fauza Asfadani (2505060011)
 Kelompok 7
 Nama Anggota:
 Rayhan Aditya Putra (2505060005)
